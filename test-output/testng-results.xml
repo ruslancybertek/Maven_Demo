@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11417" started-at="2018-02-24T17:59:35Z" finished-at="2018-02-24T17:59:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11417" started-at="2018-02-24T17:59:35Z" finished-at="2018-02-24T17:59:46Z">
+      <class name="TestPackage.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestPackage.NewTest@3bfdc050]" name="beforeMethod" is-config="true" duration-ms="8561" started-at="2018-02-24T17:59:35Z" finished-at="2018-02-24T17:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mavenTest()[pri:0, instance:TestPackage.NewTest@3bfdc050]" name="mavenTest" duration-ms="2105" started-at="2018-02-24T17:59:44Z" finished-at="2018-02-24T17:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestPackage.NewTest@3bfdc050]" name="afterMethod" is-config="true" duration-ms="719" started-at="2018-02-24T17:59:46Z" finished-at="2018-02-24T17:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestPackage.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
